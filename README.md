@@ -1,6 +1,6 @@
 # Sentiment-Analysis-on-Game-Review
 
-#### Install:
+### Install:
 1. install TextBlob pythonic text processing and sentiment analysis library
 
     $ pip install -U textblob
@@ -18,6 +18,8 @@
 4. install matplotlib
 
     $ pip install matplotlib
-    
-#### Steps to RUN:
-Run> SentimentModel.py
+
+### 1. To Run:
+	python SentimentModel.py
+	
+
